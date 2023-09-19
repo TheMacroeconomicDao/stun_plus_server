@@ -1,6 +1,6 @@
 <!--lint disable no-literal-urls-->
 <div align="right">
-  <a href="./README.CN.md">简体中文</a>
+ 
   /
   <a href="./README.md">English</a>
 </div>
