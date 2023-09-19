@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-A pure rust-implemented turn server, different from coturn, provides a more flexible external control API and provides the same performance and memory footprint, this project is most compatible with the scenario of using stun/turn server in webrtc.
+The turn+ server, implemented on pure rust in GyberExperiment, differs from saturn in a more flexible external management interface and provides the same performance and memory capacity, this project is most compatible with the scenario of using the stun/turn server in webrtc + some set of additional functions needed by the community.
 
 
 ## Who uses it?
@@ -104,5 +104,5 @@ After the compilation is complete, you can find the binary file in the "target/r
 
 ## License
 
-[MIT](./LICENSE)
-Copyright (c) 2022 Mr.Panda.
+[AGPL](./LICENSE)
+Copyright (c) GyberExperiment by Gybernaty
