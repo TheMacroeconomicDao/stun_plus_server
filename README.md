@@ -5,15 +5,7 @@
 </div>
 <br/>
 
-<style>
-  img {
-    width: 50%; /* Установите ширину изображения */
-    height: auto; /* Определите высоту изображения в автоматическом режиме */
-    margin: 20px; /* Добавьте отступ между изображением и текстом */
-    border-radius: 10px; /* Добавьте округление углами */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Добавьте тень */
-  }
-</style>
+![GyberExperiment](https://i.imgur.com/C1cQ7Rj.jpg)
 
 
 ![Alt text](https://ibb.co/dDdwgS2)
