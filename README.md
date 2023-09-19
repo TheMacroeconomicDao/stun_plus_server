@@ -1,9 +1,5 @@
 <!--lint disable no-literal-urls-->
-<div align="right">
- 
-  /
-  <a href="./README.md">English</a>
-</div>
+
 <div align="center">
   <h1>TURN-RS</h1>
 </div>
