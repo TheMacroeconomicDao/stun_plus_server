@@ -5,7 +5,7 @@
 </div>
 <br/>
 
-![GyberExperiment]([https://i.imgur.com/C1cQ7Rj.jpg](https://i.postimg.cc/kXwSBvQM/Frame-22-1.png))
+![GyberExperiment][https://i.imgur.com/C1cQ7Rj.jpg](https://i.postimg.cc/kXwSBvQM/Frame-22-1.png)
 
 
 ![Alt text](https://ibb.co/dDdwgS2)
