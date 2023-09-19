@@ -1,0 +1,13 @@
+[profile.release]
+overflow-checks = false
+panic = "abort"
+debug = false
+
+[workspace]
+resolver = "2"
+members = [
+    "tests",
+    "turn",
+    "stun",
+    "turn-server"
+]
