@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <strong>TURN Server implemented by ❤️ Rust</strong>
+  <strong>TURN Server implemented by GyberExperiment</strong>
 </div>
 <div align="center">
   <img src="https://img.shields.io/github/actions/workflow/status/mycrl/turn-rs/release.yml?branch=main"/>
