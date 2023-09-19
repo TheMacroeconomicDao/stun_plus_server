@@ -4,7 +4,7 @@
   <h1>TURN_PLUS_SERVER</h1>
 </div>
 <br/>
-![Alt text]([image link](https://ibb.co/dDdwgS2))
+![Alt text](https://ibb.co/dDdwgS2)
 <div align="center">
   <strong>TURN Server implemented by ❤️ Rust</strong>
 </div>
