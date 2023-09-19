@@ -4,6 +4,18 @@
   <h1>TURN_PLUS_SERVER</h1>
 </div>
 <br/>
+
+<style>
+  img {
+    width: 50%; /* Установите ширину изображения */
+    height: auto; /* Определите высоту изображения в автоматическом режиме */
+    margin: 20px; /* Добавьте отступ между изображением и текстом */
+    border-radius: 10px; /* Добавьте округление углами */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Добавьте тень */
+  }
+</style>
+
+
 ![Alt text](https://ibb.co/dDdwgS2)
 <div align="center">
   <strong>TURN Server implemented by ❤️ Rust</strong>
