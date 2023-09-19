@@ -5,7 +5,7 @@
 </div>
 <br/>
 <div align="center">
-  ![alt text](http://url/to/img.png)
+ 
  ![GyberExperiment](https://i.postimg.cc/kXwSBvQM/Frame-22-1.png)
 </div>
 
