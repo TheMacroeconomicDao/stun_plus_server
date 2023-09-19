@@ -5,7 +5,7 @@
 </div>
 <br/>
 <div align="center">
- [Frame-22-1.png](https://postimg.cc/7fGhR7tj)
+ ![Frame-22-1.png](https://postimg.cc/7fGhR7tj)
 </div>
 
 
