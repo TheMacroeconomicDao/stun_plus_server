@@ -5,13 +5,13 @@
 </div>
 <br/>
 <div align="center">
-  ![GyberExperiment](https://i.postimg.cc/kXwSBvQM/Frame-22-1.png)
+ [Frame-22-1.png](https://postimg.cc/7fGhR7tj)
 </div>
 
 
 
 
-![Alt text](https://ibb.co/dDdwgS2)
+
 <div align="center">
   <strong>TURN Server implemented by ❤️ Rust</strong>
 </div>
