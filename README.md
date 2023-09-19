@@ -1,7 +1,7 @@
 <!--lint disable no-literal-urls-->
 
 <div align="center">
-  <h1>TURN-RS</h1>
+  <h1>TURN_PLUS_SERVER</h1>
 </div>
 <br/>
 <div align="center">
